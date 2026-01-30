@@ -13,7 +13,7 @@ public class App {
     }
 
     public static int sub(int a,int b){
-        return 0;
+        return a-b;
     }
 
     public static int multi(int a,int b){
